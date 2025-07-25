@@ -1,0 +1,9 @@
+2025-07-09T20:45:22.545Z [error] IP: ::1, Location: Localhost - Error fetching countries: Cannot read properties of undefined (reading 'findAll')
+2025-07-10T00:02:33.045Z [error] IP: ::1, Location: Localhost - Error en getAllData: Cannot read properties of undefined (reading 'bulkCreate')
+2025-07-10T00:03:57.580Z [error] IP: ::1, Location: Localhost - Error en getAllData: Cannot read properties of undefined (reading 'bulkCreate')
+2025-07-10T00:04:27.346Z [error] IP: ::1, Location: Localhost - Error en getAllData: Cannot read properties of undefined (reading 'bulkCreate')
+2025-07-10T00:04:49.560Z [error] IP: ::1, Location: Localhost - Error en getAllData: Cannot read properties of undefined (reading 'bulkCreate')
+2025-07-10T00:06:02.463Z [error] IP: ::1, Location: Localhost - Error en getAllData: Cannot read properties of undefined (reading 'bulkCreate')
+2025-07-10T00:06:19.884Z [error] IP: ::1, Location: Localhost - Error en getAllData: Cannot read properties of undefined (reading 'bulkCreate')
+2025-07-10T00:06:35.073Z [error] IP: ::1, Location: Localhost - Error en getAllData: no existe la columna «id_umpe»
+2025-07-25T16:10:36.413Z [error] IP: ::1, Location: Localhost - Error fetching projects: no pg_hba.conf entry for host "186.82.84.49", user "userRoot", database "dev-proyectos_colombia", no encryption
