@@ -14,6 +14,10 @@ pids/
 *.seed
 *.pid.lock
 
+# dotenv environment variables
+.env
+.env.*.local
+
 # OS files
 .DS_Store
 Thumbs.db
